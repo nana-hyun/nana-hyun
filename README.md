@@ -1,10 +1,13 @@
 ## nana-hyun 🥔
 
-🏫 Catholic university of Korea (2019.03 ~ 2024.02)<br>
-🏫 POSTECH (2024.02 ~ ) <br>
+🏫 Catholic university of Korea (2019.03 ~ 2024.02) 🐧Computer Science and Information Engineering🐧 <br>
+🏫 POSTECH (2024.02 ~ ) 🐥Medical Science and Engineering🐥 <br>
 🔭 Neural Control Laboratory
 
 ✏️ I study Neuroscience and Brain Machine Interface
+🖥️ I'm interested in AI and Data analysis
+
+
 
 
 <br>
