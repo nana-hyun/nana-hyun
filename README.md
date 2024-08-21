@@ -4,7 +4,7 @@
 🏫 POSTECH (2024.02 ~ ) 🐥Medical Science and Engineering🐥 <br>
 🔭 Neural Control Laboratory
 
-✏️ I study Neuroscience and Brain Machine Interface
+✏️ I study Neuroscience and Brain Machine Interface <br>
 🖥️ I'm interested in AI and Data analysis
 
 
